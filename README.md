@@ -1,4 +1,4 @@
-# No Code
+# No Code!
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
@@ -23,6 +23,8 @@ The possibilities are endless.
 Now that you have not done anything it's time to build your application:
 
 ```
+
+
 
 ```
 

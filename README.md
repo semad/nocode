@@ -1,7 +1,4 @@
 # No Code
-adfsd
-
-
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
@@ -25,6 +22,8 @@ The possibilities are endless.
 Now that you have not done anything it's time to build your application:
 
 ```
+
+
 
 ```
 
